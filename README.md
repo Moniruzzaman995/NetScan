@@ -6,6 +6,9 @@ pip3 install scapy
 pip install tabulate colorama
 
 Installation & Usage:
+git clone https://github.com/Moniruzzaman995/NetScan.git
+cd NetScan
+chmod +x network_scanner.py
 
 ```
 ```
